@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-maps-search",
+    "slug": "rn-maps-search",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-maps-search"
+}
